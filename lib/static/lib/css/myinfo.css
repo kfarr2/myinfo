@@ -494,13 +494,14 @@ input.loginButton {
 	margin-top: 15px;
 }
 
-
+/*
 a.input.loginButton:hover {
         background-color:#ccd62f;
 		color: #404040;
 		border: none;
 }
-    
+*/
+
 a.loginButton:active {
         position:relative;
         top:1px;
